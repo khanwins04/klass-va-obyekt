@@ -1,10 +1,10 @@
 # 04-dars.O'zgaruvchilar
 # Sana: 17/06/2021
 # Muallif: Dadaxon
-ism = "Abdulloh"
+#ism = "Abdulloh"
 # print(ism)
-ism = "Muhammad"
-print(ism)
+#ism = "Muhammad"
+#print(ism)
 ism = "Dadaxon"
 print(ism)
 # yosh = "30"
